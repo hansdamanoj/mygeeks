@@ -4008,15 +4008,16 @@ a.video-play-icon-without-bip:hover {
 
 
 h2.slider-one__title.wordCarousel {
-	font-size: 36px;
-	font-weight: 100;
+	font-size: 56px;
+	font-weight: 900;
 	color: #fff;
+	margin-bottom: 4%;
 }
 .owl-item .wordCarousel div {
 	overflow: hidden;
 	position: relative;
 	float: inherit;
-	height: 120px;
+	height: 100px;
 }
 .owl-item .wordCarousel div li {
 	font-family: Serif;
