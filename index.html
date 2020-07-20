@@ -52,7 +52,7 @@
   <nav class="navbar navbar-expand-lg navbar-light header-navigation stricky">
     <div class="container clearfix"> 
       <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="logo-box"> <a class="navbar-brand" href="index.html"> <img src="images/logo.png" width="325" class="main-logo" alt="Awesome Image" /> </a>
+      <div class="logo-box"> <a class="navbar-brand" href="index.html"> <img src="images/logo.png" width="285" class="main-logo" alt="Awesome Image"> </a>
         <button class="menu-toggler" data-target=".main-navigation"> <span class="fa fa-bars"></span> </button>
       </div>
       <!-- /.logo-box --> 
@@ -72,7 +72,17 @@
           </li> -->
           <!-- <li><a href="#">Services</a>
             <ul class="submenu">
-              <li><a href="services.html">Services</a></li>
+              <li><a href="#">Services</a>
+            <ul class="submenu">
+                        <li><a href="#">Services</a>
+            <ul class="submenu">
+              <li><a href="services.html">Business Services</a></li>
+              <li><a href="services.html">Home Services</a></li>
+            </ul>
+          </li>
+              <li><a href="services.html">Home Services</a></li>
+            </ul>
+          </li>
               <li><a href="service-details.html">Service Details</a></li>
             </ul>
           </li> -->
@@ -82,7 +92,12 @@
               <li><a href="#">Blog Details</a></li>
             </ul>
           </li> -->          
-          <li><a href="services.html">Business Services</a></li>
+          <li><a href="#">Services</a>
+            <ul class="submenu">
+              <li><a href="services.html">Business Services</a></li>
+              <li><a href="services.html">Home Services</a></li>
+            </ul>
+          </li>
           <li><a href="service-areas.html">Services Areas</a></li>
           <li><a href="blog.html">Blog</a></li>
           <li><a href="contact-us.html">Contact Us</a></li>
@@ -106,19 +121,24 @@
         <form class="quote-form">
           <div class="row">
             <div class="col-md">
-              <input type="text" class="form-control" placeholder="Name" required>
+              <input type="text" class="form-control" placeholder="Name" name="name" required>
             </div>
             <div class="col-md">
-              <input type="text" class="form-control" placeholder="Email" required>
+              <input type="text" class="form-control" placeholder="Email" name="email" required>
             </div>
           </div>
           <div class="row">
             <div class="col-md">
-              <input type="text" class="form-control" placeholder="Subject" required>
+              <input type="text" class="form-control" placeholder="Phone Number" name="tel" required>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md">
+              <input type="text" class="form-control" placeholder="Subject" name="subject" required>
             </div>
           </div>
           <div class="form-group">
-            <textarea class="form-control" placeholder="Message" rows="4" required></textarea>
+            <textarea class="form-control" placeholder="Message" rows="4" name="message" required></textarea>
           </div>
           <button type="submit" class="quote-contact-btn">SEND</button>
         </form>
@@ -147,7 +167,7 @@
   <div class="slider-one__carousel owl-carousel owl-theme">
     <div class="item slider-one__slider-1" style="background-image: url(images/slider-1.jpg);">
       <div class="container">
-        <h2 class="slider-one__title wordCarousel"><span>In-Home &amp; Online Support for your</span>
+        <h2 class="slider-one__title wordCarousel"><span>In-Home &amp; In-Office Support for your</span>
           <div> 
               <ul class="flip3"> 
                   <li>Router</li>
@@ -210,12 +230,12 @@
         <div class="video-promo-content mb-md-4 mb-lg-0">
           <h2>Service We Offers</h2>
           <p>My Geeks is a one-stop solution for all the Computer-related problems.
-We specialize in Personal Computer for Home and Business, Network troubleshooting, Printer Scanner, Camera, Software, and all hardware issues.
-My Geeks also provides Installation for new or old devices such as TV, Home Theater, surround sounds, and repair them too.</p>
+              We specialize in Personal Computer for Home and Business, Network troubleshooting, Printer Scanner, Camera, Software, and all hardware issues.
+              My Geeks also provides Installation for new or old devices such as TV, Home Theater, surround sounds, and repair them too.</p>
           <ul class="list-unstyled tech-feature-list">
             <li class="py-1"><span class="ti-check-box mr-2"></span><strong>Home & Business Computer</strong> Repair</li>
             <li class="py-1"><span class="ti-check-box mr-2"></span><strong>General Troubleshooting with OS</strong> Services</li>
-            <li class="py-1"><span class="ti-check-box mr-2"></span><strong>Data Backup</strong> & Free Up Storage</li>
+            <li class="py-1"><span class="ti-check-box mr-2"></span><strong>TV &amp; Home Theater</strong> Installation</li>
             <li class="py-1"><span class="ti-check-box mr-2"></span><strong>Operating System</strong> Upgrades</li>
             <li class="py-1"><span class="ti-check-box mr-2"></span><strong>New Computer</strong> Set Up</li>
             <li class="py-1"><span class="ti-check-box mr-2"></span><strong>New Equipment/Components</strong> Ordering &amp; Installation</li>
@@ -243,12 +263,12 @@ My Geeks also provides Installation for new or old devices such as TV, Home Thea
       <div class="col-lg-4 col-sm-6"> 
         <!-- Single Services Start -->
         <div class="single-service">
-          <div class="service-content-wrap"> <i class="icon mbri-database"></i>
-            <h3>Data Recovery</h3>
+          <div class="service-content-wrap"> <i class="icon mbri-home"></i>
+            <h3>Smart Home Installation</h3>
             <p>When your system crashes, You may lose all your important data and files. My Geeks can help to retrieve all your data</p>
           </div>
           <div class="service-heading"> <a class="circle-read-more" href="service-details.html">
-            <h3>Data Recovery</h3>
+            <h3>Smart Home Installation</h3>
             <i class="ti ti-angle-right"></i> </a> </div>
         </div>
       </div>
@@ -256,11 +276,11 @@ My Geeks also provides Installation for new or old devices such as TV, Home Thea
         <!-- Single Services Start -->
         <div class="single-service">
           <div class="service-content-wrap"> <i class="icon mbri-laptop"></i>
-            <h3>Laptop Repair</h3>
+            <h3>On-site Laptop Repair</h3>
             <p>Is your office laptop suddenly not starting? or it’s suddenly not functioning properly. We come to you & Fix it no time</p>
           </div>
           <div class="service-heading"> <a class="circle-read-more" href="service-details.html">
-            <h3>Laptop Repair</h3>
+            <h3>On-site Laptop Repair</h3>
             <i class="ti ti-angle-right"></i> </a> </div>
         </div>
       </div>
@@ -268,11 +288,11 @@ My Geeks also provides Installation for new or old devices such as TV, Home Thea
         <!-- Single Services Start -->
         <div class="single-service">
           <div class="service-content-wrap"> <i class="icon mbri-desktop"></i>
-            <h3>Television Repair</h3>
+            <h3>TV &amp; Home Theater Installation</h3>
             <p>Need Help with connecting with internet or wall mounting?Our technicians will help you get the most of your smartv.</p>
           </div>
           <div class="service-heading"> <a class="circle-read-more" href="service-details.html">
-            <h3>Television Repair</h3>
+            <h3>TV &amp; Home Theater Installation</h3>
             <i class="ti ti-angle-right"></i> </a> </div>
         </div>
       </div>
@@ -448,19 +468,21 @@ My Geeks also provides Installation for new or old devices such as TV, Home Thea
             <h5>Western Australia</h5>
             <!-- <p class="pricing"><sup>$</sup>9.99<small>month</small></p> -->
           </div>
-          <div class="pricing-table-body">
+          <div class="pricing-table-body pricing-spl">
             <ul>
-                <li>Perth</li>
-                <li>Bunbury</li>
-                <li>Geraldton</li>
+                <li><span class="icon mbri-home"></span> Suite 30301 9 Lawson street Southport 4211</li>
+                <li><span class="icon fa fa-phone"></span> 1300 147 607</li>
+                <!-- <li>Geraldton</li>
                 <li>Albany</li>
                 <li>Busselton</li>
                 <li>Kalgoorlie–Boulder</li>
                 <li>Karratha</li>
-                <li><a href="service-areas.html">More</a></li>
+                <li><a href="service-areas.html">More</a></li> -->
             </ul>
           </div>
-          <div class="pricing-table-footer"> <a href="#" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> </div>
+          <div class="pricing-table-footer"> 
+            <a href="#quote-popup" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get A Quote <i class="fas fa-long-arrow-alt-right"></i> </a>
+          </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6"> 
@@ -470,19 +492,23 @@ My Geeks also provides Installation for new or old devices such as TV, Home Thea
             <h5>South Australia</h5>
             <!-- <p class="pricing"><sup>$</sup>99.99<small>month</small></p> -->
           </div>
-          <div class="pricing-table-body">
+          <div class="pricing-table-body pricing-spl">
             <ul>
-              <li>Adelaide</li>
+              <li><span class="icon mbri-home"></span> Suite 30301 9 Lawson street Southport 4211</li>
+              <li><span class="icon fa fa-phone"></span> 1300 147 607</li>
+              <!-- <li>Adelaide</li>
               <li>Mount Gambier</li>
               <li>Victor Harbor–Goolwa</li>
               <li>Whyalla</li>
               <li>Murray Bridge</li>
               <li>Port Lincoln</li>
               <li>Port Pirie</li>
-              <li>Port Augusta</li>
+              <li>Port Augusta</li> -->
             </ul>
           </div>
-          <div class="pricing-table-footer"> <a href="#" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> </div>
+          <div class="pricing-table-footer"> 
+            <a href="#quote-popup" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> 
+          </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6"> 
@@ -492,19 +518,21 @@ My Geeks also provides Installation for new or old devices such as TV, Home Thea
             <h5>Queensland</h5>
             <!-- <p class="pricing"><sup>$</sup>9.99<small>month</small></p> -->
           </div>
-          <div class="pricing-table-body">
+          <div class="pricing-table-body pricing-spl">
             <ul>
-                <li>Brisbane</li>
+              <li><span class="icon mbri-home"></span> Suite 30301 9 Lawson street Southport 4211</li>
+              <li><span class="icon fa fa-phone"></span> 1300 147 607</li>
+              <!-- <li>Brisbane</li>
                 <li>Sunshine Coast</li>
                 <li>Townsville</li>
                 <li>Cairns</li>
                 <li>Toowoomba</li>
                 <li>Mackay</li>
                 <li>Rockhampton</li>
-                <li><a href="service-areas.html">More</a></li>
+                <li><a href="service-areas.html">More</a></li> -->
             </ul>
           </div>
-          <div class="pricing-table-footer"> <a href="#" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> </div>
+          <div class="pricing-table-footer"> <a href="#quote-popup" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> </div>
         </div>
       </div>
     </div>
@@ -894,7 +922,7 @@ MY GEEKS intends to offer IT services & support in Australia for small and large
             <ul class="contact-link">
               <li><span class="icon mbri-clock"></span> Monday -Sturday at 09am-9pm</li>
               <li><span class="icon mbri-home"></span> Suite 30301 9 Lawson street Southport 4211 </li>
-               <li><span class="icon mbri-home"></span> 1300 147 607 </li>
+               <li><span class="icon fa fa-phone"></span> 1300 147 607 </li>
             </ul>
           </div>
         </div>

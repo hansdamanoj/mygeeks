@@ -53,7 +53,7 @@
   <nav class="navbar navbar-expand-lg navbar-light header-navigation stricky">
     <div class="container clearfix"> 
       <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="logo-box"> <a class="navbar-brand" href="index.html"> <img src="images/logo.png" width="325" class="main-logo" alt="Awesome Image" /> </a>
+      <div class="logo-box"> <a class="navbar-brand" href="index.html"> <img src="images/logo.png" width="285" class="main-logo" alt="Awesome Image"> </a>
         <button class="menu-toggler" data-target=".main-navigation"> <span class="fa fa-bars"></span> </button>
       </div>
       <!-- /.logo-box --> 
@@ -73,7 +73,17 @@
           </li> -->
           <!-- <li><a href="#">Services</a>
             <ul class="submenu">
-              <li><a href="services.html">Services</a></li>
+              <li><a href="#">Services</a>
+            <ul class="submenu">
+                        <li><a href="#">Services</a>
+            <ul class="submenu">
+              <li><a href="services.html">Business Services</a></li>
+              <li><a href="services.html">Home Services</a></li>
+            </ul>
+          </li>
+              <li><a href="services.html">Home Services</a></li>
+            </ul>
+          </li>
               <li><a href="service-details.html">Service Details</a></li>
             </ul>
           </li> -->
@@ -83,7 +93,12 @@
               <li><a href="#">Blog Details</a></li>
             </ul>
           </li> -->          
-          <li><a href="services.html">Business Services</a></li>
+                    <li><a href="#">Services</a>
+            <ul class="submenu">
+              <li><a href="services.html">Business Services</a></li>
+              <li><a href="services.html">Home Services</a></li>
+            </ul>
+          </li>
           <li><a href="service-areas.html">Services Areas</a></li>
           <li><a href="blog.html">Blog</a></li>
           <li><a href="contact-us.html">Contact Us</a></li>
@@ -107,19 +122,24 @@
         <form class="quote-form">
           <div class="row">
             <div class="col-md">
-              <input type="text" class="form-control" placeholder="Name" required>
+              <input type="text" class="form-control" placeholder="Name" name="name" required>
             </div>
             <div class="col-md">
-              <input type="text" class="form-control" placeholder="Email" required>
+              <input type="text" class="form-control" placeholder="Email" name="email" required>
             </div>
           </div>
           <div class="row">
             <div class="col-md">
-              <input type="text" class="form-control" placeholder="Subject" required>
+              <input type="text" class="form-control" placeholder="Phone Number" name="tel" required>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md">
+              <input type="text" class="form-control" placeholder="Subject" name="subject" required>
             </div>
           </div>
           <div class="form-group">
-            <textarea class="form-control" placeholder="Message" rows="4" required></textarea>
+            <textarea class="form-control" placeholder="Message" rows="4" name="message" required></textarea>
           </div>
           <button type="submit" class="quote-contact-btn">SEND</button>
         </form>
@@ -145,7 +165,7 @@
 <!-- ttm-stickable-header-w end--> 
 <!-- Site Slider Start -->
  <!--Page Title-->
- <section class="page-title" style="background-image:url(images/breadcrumb-bg.jpg)">
+ <!-- <section class="page-title" style="background-image:url(images/breadcrumb-bg.jpg)">
     <div class="container">
         <div class="clearfix">
             <div class="float-left">
@@ -160,7 +180,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <!-- Pricing Table Section -->
@@ -189,11 +209,11 @@
                 <li>Kalgoorlie–Boulder</li>
                 <li>Karratha</li>
                 <li>Broome</li>
-                <li>Port Hedland</li>
-                <li>Esperance</li>
+                <!-- <li>Port Hedland</li>
+                <li>Esperance</li> -->
             </ul>
           </div>
-          <div class="pricing-table-footer"> <a href="#" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> </div>
+          <div class="pricing-table-footer"> <a href="#quote-popup" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6"> 
@@ -214,7 +234,7 @@
                 <li>Coffs Harbour</li>
                 <li>Wagga Wagga</li>
                 <li>Port Macquarie</li>
-                <li>Tamworth</li>
+                <!-- <li>Tamworth</li>
                 <li>Orange</li>
                 <li>Bowral–Mittagong</li>
                 <li>Dubbo</li>
@@ -240,10 +260,10 @@
                 <li>Lithgow</li>
                 <li>Mudgee</li>
                 <li>Muswellbrook</li>
-                <li>Parkes</li>
+                <li>Parkes</li> -->
             </ul>
           </div>
-          <div class="pricing-table-footer"> <a href="#" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> </div>
+          <div class="pricing-table-footer"> <a href="#quote-popup" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6"> 
@@ -265,7 +285,7 @@
               <li>Port Augusta</li>
             </ul>
           </div>
-          <div class="pricing-table-footer"> <a href="#" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> </div>
+          <div class="pricing-table-footer"> <a href="#quote-popup" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> </div>
         </div>
       </div>
     </div>
@@ -288,17 +308,17 @@
                 <li>Rockhampton</li>
                 <li>Bundaberg</li>
                 <li>Hervey Bay</li>
-                <li>Gladstone–Tannum Sands</li>
+                <!-- <li>Gladstone–Tannum Sands</li> -->
                 <li>Maryborough</li>
                 <li>Gympie</li>
                 <li>Yeppoon</li>
                 <li>Mount Isa</li>
                 <li>Warwick</li>
                 <li>Emerald</li>
-                <li>Kingaroy</li>
+                <!-- <li>Kingaroy</li> -->
             </ul>
           </div>
-          <div class="pricing-table-footer"> <a href="#" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> </div>
+          <div class="pricing-table-footer"> <a href="#quote-popup" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6"> 
@@ -315,8 +335,8 @@
                 <li>Geelong</li>
                 <li>Ballarat</li>
                 <li>Bendigo</li>
-                <li>Shepparton–Mooroopna</li>
-                <li>Traralgon–Morwell</li>
+                <!-- <li>Shepparton–Mooroopna</li> -->
+                <!-- <li>Traralgon–Morwell</li> -->
                 <li>Warragul–Drouin</li>
                 <li>Warrnambool</li>
                 <li>Echuca–Moama</li>
@@ -330,7 +350,7 @@
                 <li>Portland</li>                
             </ul>
           </div>
-          <div class="pricing-table-footer"> <a href="#" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> </div>
+          <div class="pricing-table-footer"> <a href="#quote-popup" class="default-btn open-popup-link" data-effect="mfp-move-horizontal">Get a quote now <i class="fas fa-long-arrow-alt-right"></i> </a> </div>
         </div>
       </div>
     </div>
