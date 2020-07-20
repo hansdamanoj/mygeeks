@@ -4202,6 +4202,9 @@ h2.slider-one__title.wordCarousel {
 	padding-top: 0; 
     padding-bottom: 0;
 }
+.pricing-table-agency .pricing-spl{
+	padding: 0 3rem;
+}
 .pricing-spl ul li{
 	text-align: left;
 }
