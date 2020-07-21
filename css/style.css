@@ -337,7 +337,7 @@ section {
 }
 .topbar-one__social a {
 	font-size: 13px;
-	color: rgba(255, 255, 255, 0.5);
+	/* color: rgba(255, 255, 255, 0.5); */
 	-webkit-transition: all .4s ease;
 	transition: all .4s ease;
 }
