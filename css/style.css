@@ -4211,3 +4211,8 @@ h2.slider-one__title.wordCarousel {
 .pricing-spl ul li span {
     margin-right: 6%;
 }
+.single-service .service-heading h4 {
+    color: #ffffff;
+    margin-bottom: 15px;
+    margin-top: -4px;
+}
