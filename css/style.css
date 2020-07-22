@@ -1159,7 +1159,7 @@ a.slider-one__text {
 }
 [class*=slider-one__slider-] {
 	padding-top: 96px;
-	padding-bottom: 200px;
+	padding-bottom: 325px;
 }
 
 @media (max-width: 767px) {
