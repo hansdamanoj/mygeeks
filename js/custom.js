@@ -271,3 +271,12 @@ jQuery(window).on("load scroll", function() {
         });
 	
 });
+
+$( document ).ready(function() {
+    $.get("locationProcessor.php", function(data, status){
+        // alert("Data: " + data + "\nStatus: " + status);
+        console.log(data.data.geo.city);
+        $('#locationName').html("&nbsp;&nbsp; On-site Repair Service in "+data.data.geo.city);
+        $("#locationName").css("color", "yellow");
+    });
+});
