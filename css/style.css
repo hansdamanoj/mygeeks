@@ -4216,3 +4216,31 @@ h2.slider-one__title.wordCarousel {
     margin-bottom: 15px;
     margin-top: -4px;
 }
+.single-service-2 {
+    text-align: center;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
+    padding: 20px 15px;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    position: relative;
+	margin: -10.8px;
+	margin-bottom: 30px;
+}
+.single-service-2 h4{
+	min-height: 26px;
+	font-size: 20px;
+	color: #d01333;
+}
+.single-service-2 i{
+	line-height: 118px;
+	font-size: 40px;
+	color: #d01333;
+}
+
+.single-service-2 p{
+	text-align: justify;
+	margin-bottom: 0rem;
+	line-height: 21px;
+}
