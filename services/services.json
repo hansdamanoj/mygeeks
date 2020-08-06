@@ -1,0 +1,178 @@
+{
+    "osUpgrades": {
+        "serviceLabel": "Operating System Upgrades",
+        "serviceLg": "services/img/service-img-big.jpg",
+        "serviceSm": "services/img/service-img-sm.jpg",
+        "serviceOverview": "Operating System Upgrades",
+        "serviceStratergy": "Operating System Upgrades",
+        "serviceRepairs": "Operating System Upgrades"
+    },
+    "dataBackup": {
+        "serviceLabel": "Data Backup & Free Up Storage",
+        "serviceLg": "services/img/service-db-big.jpg",
+        "serviceSm": "services/img/service-db-sm.jpg",
+        "serviceOverview": "Data Backup & Free Up Storage",
+        "serviceStratergy": "Data Backup & Free Up Storage",
+        "serviceRepairs": "Data Backup & Free Up Storage"
+    },
+    "windowsLaptop": {
+        "serviceLabel": "Windows Laptop Repair",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "Windows Laptop Repair",
+        "serviceStratergy": "Windows Laptop Repair",
+        "serviceRepairs": "Windows Laptop Repair"
+    },
+    "smartHomeInstallation": {
+        "serviceLabel": "Smart Home Installation",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "Smart Home Installation",
+        "serviceStratergy": "Smart Home Installation",
+        "serviceRepairs": "Smart Home Installation"
+    },
+    "onSiteLaptopRepair": {
+        "serviceLabel": "On-Site Laptop Repair",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "On-Site Laptop Repair",
+        "serviceStratergy": "On-Site Laptop Repair",
+        "serviceRepairs": "On-Site Laptop Repair"
+    },
+    "homeTheaterRepair": {
+        "serviceLabel": "TV &amp; Home Theater Installation &amp; Repair",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "TV &amp; Home Theater Installation &amp; Repair",
+        "serviceStratergy": "TV &amp; Home Theater Installation &amp; Repair",
+        "serviceRepairs": "TV &amp; Home Theater Installation &amp; Repair"
+    },
+    "desktopRepair": {
+        "serviceLabel": "On-Site Desktop Repair",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "On-Site Desktop Repair",
+        "serviceStratergy": "On-Site Desktop Repair",
+        "serviceRepairs": "On-Site Desktop Repair"
+    },
+    "tabletRepair": {
+        "serviceLabel": "Tablet Repair",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "Tablet Repair",
+        "serviceStratergy": "Tablet Repair",
+        "serviceRepairs": "Tablet Repair"
+    },
+    "appleLaptopRepair": {
+        "serviceLabel": "Macbook & iMac Repair",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "Macbook & iMac Repair",
+        "serviceStratergy": "Macbook & iMac Repair",
+        "serviceRepairs": "Macbook & iMac Repair"
+    },
+    "homeAndBusinessComputerRepair": {
+        "serviceLabel": "Home & Business Computer Repair",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "Home & Business Computer Repair",
+        "serviceStratergy": "Home & Business Computer Repair",
+        "serviceRepairs": "Home & Business Computer Repair"
+    },
+    "virusAndMalwareRemoval": {
+        "serviceLabel": "Virus & Malware Removal",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "Virus & Malware Removal",
+        "serviceStratergy": "Virus & Malware Removal",
+        "serviceRepairs": "Virus & Malware Removal"
+    },
+    "generalTroubleShooting": {
+        "serviceLabel": "General Troubleshooting",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "General Troubleshooting",
+        "serviceStratergy": "General Troubleshooting",
+        "serviceRepairs": "General Troubleshooting"
+    },
+    "virusAndMalwareReinstall": {
+        "serviceLabel": "System Reinstall Virus & Malware Protection",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "System Reinstall Virus & Malware Protection",
+        "serviceStratergy": "System Reinstall Virus & Malware Protection",
+        "serviceRepairs": "System Reinstall Virus & Malware Protection"
+    },
+    "newComputerSetup": {
+        "serviceLabel": "New Computer Set Up",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "New Computer Set Up",
+        "serviceStratergy": "New Computer Set Up",
+        "serviceRepairs": "New Computer Set Up"
+    },
+    "emailConfiguration": {
+        "serviceLabel": "Email Configuration",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "Email Configuration",
+        "serviceStratergy": "Email Configuration",
+        "serviceRepairs": "Email Configuration"
+    },
+    "businessNetworking": {
+        "serviceLabel": "Business Networking",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "Business Networking",
+        "serviceStratergy": "Business Networking",
+        "serviceRepairs": "Business Networking"
+    },
+    "routerConfiguration": {
+        "serviceLabel": "Router Configuration",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "Router Configuration",
+        "serviceStratergy": "Router Configuration",
+        "serviceRepairs": "Router Configuration"
+    },
+    "newEquipmentInstallation": {
+        "serviceLabel": "New Equipment / Components Ordering & Installation",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "New Equipment / Components Ordering & Installation",
+        "serviceStratergy": "New Equipment / Components Ordering & Installation",
+        "serviceRepairs": "New Equipment / Components Ordering & Installation"
+    },
+    "cctvNIpCamera": {
+        "serviceLabel": "CCTV &amp; IP  Camera Installation",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "CCTV &amp; IP  Camera Installation",
+        "serviceStratergy": "CCTV &amp; IP  Camera Installation",
+        "serviceRepairs": "CCTV &amp; IP  Camera Installation"
+    },
+    "homeOfficeSchool": {
+        "serviceLabel": "Home Office / School",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "Home Office / School",
+        "serviceStratergy": "Home Office / School",
+        "serviceRepairs": "Home Office / School"
+    },
+    "audioNVideo": {
+        "serviceLabel": "Audio &amp; Video",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "Audio &amp; Video",
+        "serviceStratergy": "Audio &amp; Video",
+        "serviceRepairs": "Audio &amp; Video"
+    },
+    "wifiInternetNNetworkRepair": {
+        "serviceLabel": "Wifi Internet  &amp; Network Server Repair",
+        "serviceLg": "services/img/service-winl-big.jpg",
+        "serviceSm": "services/img/service-winl-sm.jpg",
+        "serviceOverview": "Wifi Internet  &amp; Network Server Repair",
+        "serviceStratergy": "Wifi Internet  &amp; Network Server Repair",
+        "serviceRepairs": "Wifi Internet  &amp; Network Server Repair"
+    }
+}

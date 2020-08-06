@@ -1,0 +1,493 @@
+[27-Jul-2020 22:31:18 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:31:18 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:31:18 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:31:18 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:31:18 UTC] PHP Notice:  Undefined variable: user_ip in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 8
+[27-Jul-2020 22:31:18 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:31:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:32:28 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:32:28 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:32:28 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:32:28 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:32:28 UTC] PHP Notice:  Undefined variable: user_ip in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 8
+[27-Jul-2020 22:32:28 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:32:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:32:54 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:32:54 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:32:54 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:32:54 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:32:54 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:32:54 UTC] PHP Notice:  Undefined variable: user_ip in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 8
+[27-Jul-2020 22:32:54 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:32:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:33:32 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:33:32 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:33:33 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:33:33 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:33:43 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:33:43 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:33:43 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:33:43 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:33:43 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:33:43 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:33:43 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:33:43 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:33:57 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:33:57 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:33:57 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:33:57 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:33:57 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:33:57 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:33:57 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:33:57 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:33:57 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:33:57 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:34:12 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:34:12 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:34:12 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:34:12 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:34:12 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:34:12 UTC] PHP Notice:  Undefined variable: user_ip in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 8
+[27-Jul-2020 22:34:13 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:34:13 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:34:13 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:34:13 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:34:13 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:34:13 UTC] PHP Notice:  Undefined variable: user_ip in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 8
+[27-Jul-2020 22:34:25 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:34:25 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:34:25 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:34:25 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:34:25 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:34:25 UTC] PHP Notice:  Undefined variable: user_ip in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 8
+[27-Jul-2020 22:34:25 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:35:00 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:35:00 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:35:00 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:35:00 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:35:00 UTC] PHP Notice:  Undefined variable: user_ip in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 8
+[27-Jul-2020 22:35:00 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:35:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:35:07 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:35:07 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:35:07 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:35:07 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:35:07 UTC] PHP Notice:  Undefined variable: user_ip in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 8
+[27-Jul-2020 22:35:07 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:35:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:35:07 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:35:07 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:35:07 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:35:07 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:35:07 UTC] PHP Notice:  Undefined variable: user_ip in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 8
+[27-Jul-2020 22:35:07 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:35:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:37:17 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:37:17 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:37:17 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:37:17 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:37:17 UTC] PHP Notice:  Undefined variable: user_ip in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 8
+[27-Jul-2020 22:37:17 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:37:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:37:48 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:37:48 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:37:48 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:37:48 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:37:48 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:37:48 UTC] PHP Notice:  Undefined variable: user_ip in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 8
+[27-Jul-2020 22:37:48 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:37:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:37:50 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:37:50 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:37:50 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:37:50 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:37:50 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:37:50 UTC] PHP Notice:  Undefined variable: user_ip in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 8
+[27-Jul-2020 22:37:50 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:37:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 10
+[27-Jul-2020 22:38:23 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:38:23 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:38:23 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:38:23 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:38:23 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:38:24 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:38:24 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:38:24 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:38:24 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:38:24 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:38:41 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:38:41 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:38:41 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:38:41 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:38:41 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:38:41 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 6
+[27-Jul-2020 22:38:42 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:38:42 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:38:42 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:38:42 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:38:42 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:38:42 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 6
+[27-Jul-2020 22:38:44 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:38:44 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:38:44 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:38:44 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:38:44 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:38:44 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 6
+[27-Jul-2020 22:38:45 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:38:45 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:38:45 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:38:45 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:38:45 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:38:45 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 6
+[27-Jul-2020 22:39:34 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:39:34 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:39:34 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:39:34 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:39:34 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:39:34 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 6
+[27-Jul-2020 22:39:35 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:39:35 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:39:35 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:39:35 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:39:35 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:39:35 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 6
+[27-Jul-2020 22:39:37 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:39:37 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:39:37 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:39:37 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:39:37 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:39:37 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 6
+[27-Jul-2020 22:39:38 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:39:38 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:39:38 UTC] PHP Warning:  include(db/con.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:39:38 UTC] PHP Warning:  include(): Failed opening 'db/con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 3
+[27-Jul-2020 22:39:38 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 5
+[27-Jul-2020 22:39:38 UTC] PHP Notice:  Undefined variable: conn in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 6
+[27-Jul-2020 22:40:05 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:40:05 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:40:05 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 17
+[27-Jul-2020 22:40:06 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:40:06 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:40:06 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 17
+[27-Jul-2020 22:41:09 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:41:09 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:41:09 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 18
+[27-Jul-2020 22:41:09 UTC] PHP Notice:  Undefined variable: user_ip in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 19
+[27-Jul-2020 22:41:10 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:41:10 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:41:10 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 18
+[27-Jul-2020 22:41:10 UTC] PHP Notice:  Undefined variable: user_ip in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 19
+[27-Jul-2020 22:42:03 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:42:03 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:42:03 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 18
+[27-Jul-2020 22:42:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getUserIP() in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 19
+[27-Jul-2020 22:42:04 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:42:04 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:42:04 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 18
+[27-Jul-2020 22:42:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getUserIP() in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 19
+[27-Jul-2020 22:42:33 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:42:33 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:42:33 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 18
+[27-Jul-2020 22:42:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getUserIP() in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 19
+[27-Jul-2020 22:42:35 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:42:35 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:42:35 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 18
+[27-Jul-2020 22:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getUserIP() in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 19
+[27-Jul-2020 22:43:01 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:43:01 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:43:01 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 18
+[27-Jul-2020 22:43:02 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:43:02 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:43:02 UTC] PHP Notice:  Undefined index: email in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 18
+[27-Jul-2020 22:43:48 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:43:48 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:44:44 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:44:44 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:48:51 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:48:51 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:48:51 UTC] PHP Notice:  Undefined variable: con in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 23
+[27-Jul-2020 22:48:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/nngx59tfa3ei/public_html/db/newletterHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 23
+[27-Jul-2020 22:49:17 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:49:17 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:49:17 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 24
+[27-Jul-2020 22:51:40 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:51:40 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:51:40 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 24
+[27-Jul-2020 22:51:58 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:51:58 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:51:58 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 24
+[27-Jul-2020 22:54:45 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:54:45 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:54:45 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 24
+[27-Jul-2020 22:55:43 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:55:43 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:55:43 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 24
+[27-Jul-2020 22:57:05 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:57:05 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:57:05 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 24
+[27-Jul-2020 22:57:45 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:57:45 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:57:45 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 24
+[27-Jul-2020 22:58:00 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:58:00 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:58:00 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 24
+[27-Jul-2020 22:58:07 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:58:07 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:58:07 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 24
+[27-Jul-2020 22:58:56 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:58:56 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 22:58:56 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 24
+[27-Jul-2020 23:00:01 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 23:00:01 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 23:00:01 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 24
+[27-Jul-2020 23:00:29 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 23:00:29 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 23:00:29 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 24
+[27-Jul-2020 23:02:02 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 23:02:02 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[27-Jul-2020 23:02:02 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 24
+[28-Jul-2020 22:38:47 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:38:47 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:38:47 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 24
+[28-Jul-2020 22:47:17 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:47:17 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:47:17 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:47:30 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:47:30 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:47:30 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:47:30 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 115
+[28-Jul-2020 22:47:30 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:47:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:47:41 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:47:41 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:47:41 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:48:31 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:48:31 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:48:31 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:48:31 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 115
+[28-Jul-2020 22:48:31 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:48:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:48:43 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:48:43 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:48:43 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:49:02 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:49:02 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:49:02 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:49:02 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 115
+[28-Jul-2020 22:49:02 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:49:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:49:34 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:49:34 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:49:34 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:52:13 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:52:13 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:52:13 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:52:13 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 115
+[28-Jul-2020 22:52:13 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:52:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:53:01 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:53:01 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:53:01 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:54:04 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:54:04 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:54:04 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:54:04 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 115
+[28-Jul-2020 22:54:04 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:54:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:54:21 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:54:21 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:54:21 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:54:21 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 115
+[28-Jul-2020 22:54:21 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:54:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:54:21 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:54:21 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:54:21 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:54:21 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 115
+[28-Jul-2020 22:54:21 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:54:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:54:21 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:54:21 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:54:21 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:54:21 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 115
+[28-Jul-2020 22:54:22 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:54:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:54:22 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:54:22 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:54:22 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:54:22 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 115
+[28-Jul-2020 22:54:22 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:54:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:54:22 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:54:22 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:54:22 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:54:22 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 115
+[28-Jul-2020 22:54:22 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:54:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:57:43 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:57:43 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:57:43 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:57:43 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 116
+[28-Jul-2020 22:57:43 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 81
+[28-Jul-2020 22:57:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 81
+[28-Jul-2020 22:58:22 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:58:22 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:58:22 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:58:22 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 114
+[28-Jul-2020 22:58:22 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 79
+[28-Jul-2020 22:58:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 79
+[28-Jul-2020 22:58:45 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:58:45 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:58:45 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:58:59 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:58:59 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 22:58:59 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 22:58:59 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 115
+[28-Jul-2020 22:58:59 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 22:58:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 23:00:02 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:00:02 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:00:02 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:00:02 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 116
+[28-Jul-2020 23:00:02 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 23:00:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 23:00:24 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:00:24 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:00:24 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:00:24 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 116
+[28-Jul-2020 23:01:07 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:01:07 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:01:07 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:01:07 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 116
+[28-Jul-2020 23:01:20 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:01:20 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:01:20 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:01:20 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 116
+[28-Jul-2020 23:01:52 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:01:52 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:01:52 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:01:52 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 116
+[28-Jul-2020 23:02:25 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:02:25 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:02:25 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:02:25 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 116
+[28-Jul-2020 23:02:31 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:02:31 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:02:31 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:02:31 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 116
+[28-Jul-2020 23:03:04 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:03:04 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:03:04 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:03:04 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 116
+[28-Jul-2020 23:03:18 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:03:18 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:03:18 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:03:18 UTC] PHP Warning:  Use of undefined constant templete - assumed 'templete' (this will throw an Error in a future version of PHP) in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 116
+[28-Jul-2020 23:03:51 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:03:51 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:03:51 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:04:25 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:04:25 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:04:25 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:04:25 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 23:04:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 80
+[28-Jul-2020 23:04:55 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:04:55 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:04:55 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:05:30 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:05:30 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:05:30 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:06:38 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:06:38 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:06:38 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:07:01 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:07:01 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:07:01 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:08:06 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:08:06 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:08:06 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:08:07 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:08:07 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:08:07 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:08:09 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:08:09 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:08:09 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:08:10 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:08:10 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:08:10 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:08:11 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:08:11 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:08:11 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:08:12 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:08:12 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:08:12 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:10:24 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:10:24 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:10:24 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:10:25 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:10:25 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:10:25 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:13:01 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:13:01 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:13:01 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:14:36 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:14:36 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:14:36 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:14:38 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:14:38 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:14:38 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:14:47 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:14:47 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:14:47 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:15:46 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:15:46 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:15:46 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
+[28-Jul-2020 23:32:02 UTC] PHP Warning:  include(locationProcessor.php): failed to open stream: No such file or directory in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:32:02 UTC] PHP Warning:  include(): Failed opening 'locationProcessor.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 2
+[28-Jul-2020 23:32:02 UTC] PHP Notice:  Undefined variable: bar in /home/nngx59tfa3ei/public_html/db/newletterHandler.php on line 26
