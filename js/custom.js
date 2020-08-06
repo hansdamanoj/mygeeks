@@ -277,6 +277,7 @@ $( document ).ready(function() {
         // alert("Data: " + data + "\nStatus: " + status);
         console.log(data.data.geo.city);
         $('#locationName').html("&nbsp;&nbsp; On-site Repair Service in "+data.data.geo.city);
+        $('#banner-location,#banner-location-2,.location').html("&nbsp;&nbsp; On-site Repair Service in "+data.data.geo.city);
         $("#locationName").css("color", "yellow");
     });
 });

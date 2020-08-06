@@ -589,6 +589,20 @@ section {
 	transform: translateY(-50%);
 	right: 15px;
 }
+.header-navigation .container .right-side-box-2 {
+	position: absolute;
+	top: 60%;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+	right: 15px;
+}
+.header-navigation .container .right-side-box-2 h2 a{
+	margin-bottom: 0;
+	padding-bottom: 0;
+	color: #d01333;
+	font-weight: 900;
+	letter-spacing: 2px;
+}
 .header-navigation .container .right-side-box .default-btn {
 	position: relative;
 }
@@ -1159,7 +1173,7 @@ a.slider-one__text {
 }
 [class*=slider-one__slider-] {
 	padding-top: 96px;
-	padding-bottom: 325px;
+	padding-bottom: 42px;
 }
 
 @media (max-width: 767px) {
